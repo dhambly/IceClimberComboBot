@@ -1,0 +1,300 @@
+#Conflicts:
+	#da Dair vs Dash attack
+	#j  jab vs jump
+	#fs  fsmash vs footstool
+	#sh shield vs shorthop
+
+
+	'rev' : 'reverse',
+	'ft': 'ftilt',
+	'dt': 'dtilt',
+	'ut': 'utilt',
+	'us': 'upsmash',
+	'ds': 'downsmash',
+	'fsm': 'fsmash',
+	'DA': 'dashattack',
+	'ja': 'jab',
+	'jb': 'jab',
+	'fa': 'fair',
+	'na': 'nair',
+	'ba': 'bair',
+	#'dair': 'dair',
+	'da': 'dair',
+	'ua' : 'upair',
+	'ib': 'ib',
+	'neutralb': 'ib',
+	'downb': 'blizz',
+	'upb': 'belay',
+	'sideb': 'squall',
+	'nb': 'ib',
+	'db': 'blizz',
+	'bl': 'blizz',
+	'be': 'belay',
+	'sq': 'squall',
+	'dad': 'directional-air-dodge',
+	'nad': 'neutral-air-dodge',
+	'sh': 'shield',
+	'sd': 'spotdodge',
+	'sp': 'spotdodge',
+	'rf': 'roll-forward',
+	'rb': 'roll-backward',
+	'r': 'roll',
+	'g': 'grab',
+	'dth': 'downthrow',
+	'fth': 'fthrow',
+	'uth': 'upthrow',
+	'bth': 'bthrow',
+	'J': 'jump',
+	'ju': 'jump',
+	'SH': 'shorthop',
+	'fh': 'fullhop',
+	'dj': 'doublejump',
+	'fs' :	'footstool',
+	'dg': 'dashgrab',
+	'd':'dash',
+	'w':'walk',
+	'de': 'desync',
+	'ds': 'desync',
+
+
+	#nana
+	'nft': '(ftilt)',
+	'nftilt': '(ftilt)',
+
+	'ndt': '(dtilt)',
+	'ndtilt': '(dtilt)',
+
+	'nut': '(utilt)',
+	'nutilt': '(utilt)',
+
+	'nus': '(upsmash)',
+	'nupsmash': '(upsmash)',
+	'nusmash': '(upsmash)',
+
+	'nds': '(downsmash)',
+	'ndownsmash': '(downsmash)',
+	'ndsmash': '(downsmash)',
+
+	'nfsm': '(fsmash)',
+	'nfsmash': '(fsmash)',
+	'nss': '(fsmash)',
+	'nforwardsmash': '(fsmash)',
+	'nssmash': '(fsmash)',
+	'nsidesmash': '(fsmash)',
+
+	'nja': '(jab)',
+	'njb': '(jab)',
+	'njab': '(jab)',
+	'nja1': '(jab1)',
+	'njb1': '(jab1)',
+	'njab1': '(jab1)',
+	'nja2': '(jab2)',
+	'njb2': '(jab2)',
+	'njab2': '(jab2)',
+
+	'nfa': '(fair)',
+	'nfair': '(fair)',
+
+	'nna': '(nair)',
+	'nnair': '(nair)',
+	'nna1': '(nair1)',
+	'nnair1': '(nair1)',
+
+	'nna': '(nair)',
+	'nnair': '(nair)',
+
+	'nba': '(bair)',
+	'nbair': '(bair)',
+
+	'nua' : '(upair)',
+	'nuair' : '(upair)',
+	'nupair' : '(upair)',
+
+	'nda' : '(dair)',
+	'ndair' : '(dair)',
+
+	'nDA' : '(dashattack)',
+
+	'nib': '(ib)',
+	'nneutralb': '(ib)',
+	'nnb': '(ib)',
+	#('nb': '(ib)',
+
+	'nupb': '(belay)',
+	'nbe': 'belay',
+	'nbelay': '(belay)',
+
+	'nsideb': '(squall)',
+	'nsq': '(squall)',
+	'nsquall': '(squall)',
+	
+	'ndownb': '(blizz)',
+	'ndb': '(blizz)',
+	'nbl': '(blizz)',
+	'nbli': '(blizz)',
+	'nbliz': '(blizz)',
+	'nblizz': '(blizz)',
+	'nblizzard': '(blizz)',
+	
+	'ndad': '(directional-air-dodge)',
+
+	'nnad': '(neutral-air-dodge)',
+
+	'nsh': '(shield)',
+	'nshield': '(shield)',
+
+	'nsd': '(spotdodge)',
+	'nsp': '(spotdodge)',
+	'nspot': '(spotdodge)',
+	'nspotdodge': '(spotdodge)',
+
+	'nrf': '(roll-forward)',
+	'nrb': '(roll-backward)',
+
+	'nr': '(roll)',
+	'nroll': '(roll)',
+
+	'nJ': '(jump)',
+	'nju': '(jump)',
+	'nSH': '(shorthop)',
+	'nfh': '(fullhop)',
+	'ndj': '(doublejump)',
+	'nfs' :	'(footstool)',
+
+	'nd':'(dash)',
+	'nw':'(walk)',
+
+
+	#popo
+	'pft': '[ftilt]',
+	'pftilt': '[ftilt]',
+
+	'pdt': '[dtilt]',
+	'pdtilt': '[dtilt]',
+
+	'put': '[utilt]',
+	'putilt': '[utilt]',
+
+	'pus': '[upsmash]',
+	'pupsmash': '[upsmash]',
+	'pusmash': '[upsmash]',
+
+	'pds': '[downsmash]',
+	'pdownsmash': '[downsmash]',
+	'pdsmash': '[downsmash]',
+
+	'pfsm': '[fsmash]',
+	'pfsmash': '[fsmash]',
+	'pss': '[fsmash]',
+	'pforwardsmash': '[fsmash]',
+	'pssmash': '[fsmash]',
+	'psidesmash': '[fsmash]',
+
+	'pj': '[jab]',
+	'pja': '[jab]',
+	'pjb': '[jab]',
+	'pjab': '[jab]',
+	'pja1': '[jab1]',
+	'pjb1': '[jab1]',
+	'pj1': '[jab1]',
+	'pjab1': '[jab1]',
+	'pja2': '[jab2]',
+	'pjb2': '[jab2]',
+	'pj2': '[jab2]',
+	'pjab2': '[jab2]',
+
+	'pfa': '[fair]',
+	'pfair': '[fair]',
+
+	'pna': '[nair]',
+	'pnair': '[nair]',
+	'pna1': '[nair1]',
+	'pnair1': '[nair1]',
+
+	'pna': '[nair]',
+	'pnair': '[nair]',
+
+	'pba': '[bair]',
+	'pbair': '[bair]',
+
+	'pua' : '[upair]',
+	'puair' : '[upair]',
+	'pupair' : '[upair]',
+
+	'pda' : '[dair]',
+	'pdair' : '[dair]',
+
+	'pDA' : '[dashattack]',
+
+	'pib': '[ib]',
+	'pneutralb': '[ib]',
+	'pnb': '[ib]',
+	#'nb': '[ib]',
+
+	'pupb': '[belay]',
+	'pbe': 'belay',
+	'pbelay': '[belay]',
+
+	'psideb': '[squall]',
+	'psq': '[squall]',
+	'psquall': '[squall]',
+	
+	'pdownb': '[blizz]',
+	'pdb': '[blizz]',
+	'pbl': '[blizz]',
+	'pbli': '[blizz]',
+	'pbliz': '[blizz]',
+	'pblizz': '[blizz]',
+	'pblizzard': '[blizz]',
+	
+	'pdad': '[directional-air-dodge]',
+
+	'pnad': '[neutral-air-dodge]',
+
+	'psh': '[shield]',
+	'pshield': '[shield]',
+
+	'psd': '[spotdodge]',
+	'psp': '[spotdodge]',
+	'pspot': '[spotdodge]',
+	'pspotdodge': '[spotdodge]',
+
+	'prf': '[roll-forward]',
+	'prb': '[roll-backward]',
+
+	'pr': '[roll]',
+	'proll': '[roll]',
+
+	'pJ': '[jump]',
+	'pju': '[jump]',
+	'pjump': '[jump]',
+
+	'pSH': '[shorthop]',
+	'pfh': '[fullhop]',
+	'pdj': '[doublejump]',
+
+	'pdth': '[downthrow]',
+	'pfth': '[fthrow]',
+	'puth': '[upthrow]',
+	'pbth': '[bthrow]',
+	'pdthrow': '[downthrow]',
+	'pfthrow': '[fthrow]',
+	'puthrow': '[upthrow]',
+	'pbthrow': '[bthrow]',
+	'pfs' :	'[footstool]',
+
+	'pd':'[dash]',
+	'pw':'[walk]',
+	'pg': '[grab]',
+
+	'cc' : 'cheer-cancel',
+	'jcc' : 'jump-cheer-cancel',
+	'tcc' : 'taunt-cheer-cancel',
+	'ibcc' : 'ib-cheer-cancel',
+	'sdcc' : 'spotdodge-cheer-cancel',
+	'spcc' : 'spotdodge-cheer-cancel',
+	'scc' : 'spotdodge-cheer-cancel',
+	'fscc' : 'fsmash-cheer-cancel',
+	'uscc' : 'upsmash-cheer-cancel',
+
+	'mura' : 'dthrow [shield] (upair) [fair]',
