@@ -1,10 +1,21 @@
 #Conflicts:
 	#da Dair vs Dash attack
+	DA = dash attack
+	da = dair
+	
 	#j  jab vs jump
+	j = jab
+	J = jump
+	
 	#fs  fsmash vs footstool
+	fs = footstool
+	fsm = fsmash
+	
 	#sh shield vs shorthop
+	sh = shield
+	SH = shorthop
 
-
+	#synced
 	'rev' : 'reverse',
 	'ft': 'ftilt',
 	'dt': 'dtilt',
